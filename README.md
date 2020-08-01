@@ -1,2 +1,2 @@
 # Art-center
-![alt text](images/art-center.png "Описание будет тут")
+![Image alt](https://github.com/Aleinikowa/images/blob/master/art-center.png
