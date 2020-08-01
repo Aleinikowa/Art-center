@@ -1,2 +1,2 @@
-# Art-center (многостраничный сайт)
+# Art-center 
 ![Image alt](https://github.com/Aleinikowa/images/blob/master/art-center.png)
